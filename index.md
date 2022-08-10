@@ -1,6 +1,5 @@
-# Page Title
+# Dr. Brown's TD site day 2
 
-A short introduction for the top of your main page
+I like to reach via live coding
 
-
-More content you want on your page
+Github's new features tricked me today
